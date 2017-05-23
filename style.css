@@ -1,0 +1,51 @@
+
+body{
+    background-color: tan;
+ 
+}
+header{
+    font-size: 25pt;
+    font-weight: bold;
+    margin: 10px;
+    margin-left: 25px;
+}
+header img{
+    background-color: white;
+}
+div img{
+    display: block;
+    border: 2px solid black;
+    width: 100px;
+    padding: 10px;
+    margin: 5px;
+}
+.column1{
+    display:inline-block;
+}
+.column1 img{
+        background-color: #82b4ee;
+}
+.column2{
+    display: inline-block;
+}
+.column2 img{
+    background-color: #f36870; 
+}
+.column3{
+    display: inline-block;
+}    
+.column3 img{
+   background-color: #82b4ee;
+}
+.column4{
+    display:inline-block;
+}
+.column4 img{
+     background-color: #f36870; 
+}
+.column5{
+    display: inline-block;
+}    
+.column5 img{
+    background-color: #82b4ee;
+}
